@@ -141,9 +141,9 @@ print(colors('\n'.join([
     ])))
 def main():
     D = ' [G1][!] masukin password nya !'
-    Yes = 'Yes'
+    Yes = 'Yes Aku Bisa'
     user_input = raw_input(' [!] input password [!] : ')
-    if user_input != Yes Aku Bisa:
+    if user_input != Yes:
         sys.exit(' [!] password salah [!]\n')
     print ' [!] Asiyapp Enjoy [!]\n'
     inject('127.0.0.1', '8080').start()
